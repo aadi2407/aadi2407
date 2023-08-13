@@ -18,10 +18,11 @@ Collaborate, Build, and Innovate: Empowering Development on GitHub
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi2407&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadi2407&show_icons=true&locale=en&layout=compact" alt="aadi2407" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aadi2407&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
