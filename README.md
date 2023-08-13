@@ -16,7 +16,6 @@ Collaborate, Build, and Innovate: Empowering Development on GitHub
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aadi2407&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadi2407&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadi2407&show_icons=true&locale=en&layout=compact" alt="aadi2407" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aadi2407&icon=0&color=12)](https://visitcount.itsvg.in)
